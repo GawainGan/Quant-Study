@@ -1,4 +1,4 @@
-### 2 - Aggregate Performance Parameters:
+### 2 - Aggregate Performance Parameters
 
 #### a. **Return**:
 - Represents the average of the daily return for a given year.
